@@ -112,7 +112,7 @@ let itemList = () => {
       
       console.log(robot.energyLevel)
       
-
+//NinjaBattle...choice your ninja
       const ninjaBattle = (ninja) => {
             
         if (ninja === 'Naruto' || ninja === 'Sasuke' || ninja === 'Kakashi' || ninja === 'Obito' || ninja === 'Madara') {
